@@ -1,8 +1,6 @@
-import java.util.Random;
 public class Shattle {
     public static void main(String[] args) {
 
-    Random random = new Random();
         int shuttleCount = 0;
         int number = 1;
 
